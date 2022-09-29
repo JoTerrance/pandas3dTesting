@@ -1,0 +1,6 @@
+[tool.pyright]
+extraPaths = ["/home/gorka/.local/lib/python3.10/site-packages/"]
+useLibraryCodeForTypes = true
+typeCheckingMode = "basic"
+reportGeneralTypeIssues = "none"
+reportOptionalMemberAccess = "none"
